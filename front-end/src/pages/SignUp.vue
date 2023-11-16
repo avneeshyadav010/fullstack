@@ -136,6 +136,7 @@ export default {
   background-color: grey;
   padding: 0 10rem;
   height: 100vh;
+  border-radius: 10px;
 }
 
 
